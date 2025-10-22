@@ -49,10 +49,9 @@ Ethical AI awareness and data governance
 - Full Report
 
 You can find the full report in this repository:
-📄 Summary and report.pdf
+Summary and report.pdf
 
-👤 Author
+- Author
 
 Varis Ithivatana
 MSc Business Analytics, University of Exeter
-📧 [optional email or LinkedIn link]
