@@ -1,80 +1,58 @@
-🎓 BEMM466 Business Analytics Project – Portfolio Materials
+- Overcoming Failure in GenAI Startups
+A Cluster Analysis Using the STP Framework
 
-This repository showcases my learning journey and supporting materials from the Business Projects Module (BEMM466) at the University of Exeter Business School.
-The module served as the capstone project of my degree, combining business understanding, analytics, and research methodology to solve real-world challenges through data-driven insights.
+Portfolio project by Varis Ithivatana – MSc Business Analytics, University of Exeter
 
-📘 Module Overview
+- Project Summary
 
-BEMM466 – Business Analytics Project
-This module focuses on developing and demonstrating advanced business analytics skills through an independent research or consultancy project.
-It integrates data analysis, ethical research practice, and strategic thinking to address contemporary business problems.
+This project explores why many Generative AI startups fail — and how data-driven marketing can help them find the right target users.
+Using a UK public survey of 3,513 respondents, I used cluster analysis and the STP (Segmentation–Targeting–Positioning) framework to identify four types of GenAI users and develop marketing strategies to improve product–market fit.
 
-📂 Contents
-File	Description
-Lecture 1 – Introduction (April 25)	Overview of the module, assessment structure, and project options (Dissertation vs. Consultancy).
-Lecture 2 – Planning & Negotiating Your Project (May 14)	Research design process, topic selection, literature review, and working with supervisors or clients.
-Lecture 3 – Proposal & Ethics (May 28)	Guidance on writing a research proposal, completing the ethics form, and sample applications of analytics (ML, NLP, forecasting).
-🧩 Key Skills & Learning Outcomes
+- Key Findings
 
-Through this module, I strengthened my abilities in:
+4 user groups were identified: Enthusiasts, Optimists, Sceptics, and Observers.
 
-Business problem formulation – defining analytical challenges and research questions.
+Professionals who value productivity and trust are the best early adopters.
 
-Data analytics – applying techniques in machine learning, natural language processing, and forecasting.
+GenAI startups should focus on transparency, usefulness, and safety in their products.
 
-Research design & methodology – developing evidence-based and ethical approaches.
+- Methods & Tools
 
-Communication & reporting – producing academic and consultancy-style deliverables.
+Data: Ada Lovelace Institute (2024) UK public survey
 
-Ethics & governance – applying responsible data use and AI ethics principles.
+Analysis: Hierarchical cluster analysis using R
 
-💼 Project Focus
+Frameworks: STP model, GE Matrix, 4Ps Marketing Mix
 
-The capstone project involves developing a 10,000-word dissertation or consultancy report, supported by data analysis and visualization.
-Students also produce:
+Visualization: Perceptual mapping, competitor benchmarking
 
-A 2,000-word proposal (formative, appendix)
+- Outcomes
 
-A 1,000-word executive summary
+Suggested marketing strategy for GenAI startups:
 
-Supporting code and data stored on GitHub / OneDrive
+Target: Professionals (Enthusiasts & Cautious Optimists)
 
-An ethics approval document verified by the supervisor
+Positioning: “Transparent, efficient AI for productivity”
 
-🧠 Tools & Technologies
+Model: Freemium SaaS integrated with Microsoft/Google tools
 
-Python (NumPy, Pandas, Scikit-learn, NLTK, SpaCy)
+- Skills Demonstrated
 
-R / Tableau / Excel (Monte Carlo Simulation, Data Visualization)
+Data analysis (R, clustering, visualization)
 
-GitHub & OneDrive for project management
+Marketing analytics (STP, segmentation, targeting)
 
-APA referencing & ethical documentation
+Strategic communication & business storytelling
 
-🔍 Example Research Areas
+Ethical AI awareness and data governance
 
-Predictive analytics and time-series forecasting
+- Full Report
 
-Machine learning in finance, marketing, and operations
+You can find the full report in this repository:
+📄 Summary and report.pdf
 
-NLP and sentiment analysis for customer reviews
+👤 Author
 
-Sustainable supply chain and circular economy analytics
-
-Impact of AI and Industry 4.0 on business performance
-
-🤖 Responsible Use of AI
-
-This module encourages the transparent and ethical use of Generative AI tools (such as ChatGPT) for ideation, editing, and data support — with full disclosure and academic integrity.
-
-🧑‍💼 Instructor
-
-Dr. Stuart So
-Module Convenor – Business Analytics Capstone Project
-University of Exeter Business School
-📧 c.so@exeter.ac.uk
-
-🪪 License
-
-This repository is for portfolio and educational purposes only.
-All lecture materials are © University of Exeter. Redistribution is not permitted.
+Varis Ithivatana
+MSc Business Analytics, University of Exeter
+📧 [optional email or LinkedIn link]
